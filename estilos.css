@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(43, 197, 235);
+}
+#contenedorPadre {
+    width: auto;
+    position: relative;
+    height: 350px;
+}
+#contenedorHijo {
+    padding: 8px;
+    position: absolute;
+    top: 8%;
+    left: 40%;
+    width: 400px;
+    height: auto;
+}
+#btnDescargar{
+    position: absolute;
+}
